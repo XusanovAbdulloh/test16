@@ -1,0 +1,28 @@
+/* body{
+    margin: 0%;
+    background-color: blue;
+}
+
+.top {
+    height: 50px;
+    background-color: aliceblue;
+} */
+
+.a{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    display: inline-block;
+}
+.b{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    display: inline-block;
+}
+.c{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    display: inline-block;
+}
